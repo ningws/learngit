@@ -37,7 +37,7 @@
 						<option value="1">1</option>
 					</select>
 				</td>
-				<td width="20%"><label>部门名称：</label></td>
+				<td width="20%"><label>部门名称1：</label></td>
 				<td>
 					<s:textfield name="deptName"></s:textfield>
 				</td>
